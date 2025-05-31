@@ -17,25 +17,15 @@
 
 ## 🧠 Skills & Interests
 
-- 💻 **Languages:** Python, C++, Java, C  
-- 🌐 **Web Development:** HTML, CSS, JavaScript, Flask, FastAPI  
+- 💻 **Languages:** Python, C++, Java, C    
 - 🔐 **Cybersecurity:** Ethical hacking fundamentals, phishing awareness, secure coding  
 - 🧠 **Machine Learning:** scikit-learn, pandas, NumPy  
-- 📊 **Data Analysis:** Excel, Python (pandas, matplotlib)  
+- 📊 **Data Analysis:**  Python (pandas, matplotlib)  
 - 🤖 **AI/ML Enthusiast:** Interested in deep learning and automation  
 - 📷 **Hobbies:** Photography, Sketching, Exploring tech trends  
 
 ---
 
-## 📌 Featured Projects
-
-### 🔤 [Text Extractor from Image](https://github.com/MG26-spec/Text_Extractor)
-Extracts text from images using Python, Tesseract OCR, and OpenCV.
-
-### 🖐️ [Gesture-based PC Lock](https://github.com/MG26-spec/Lock_Your_PC-with-middle-Finger-)
-A fun project that locks your PC with a specific hand gesture using MediaPipe and OpenCV.
-
----
 
 ## 📈 GitHub Stats
 
@@ -47,11 +37,15 @@ A fun project that locks your PC with a specific hand gesture using MediaPipe an
 
 ## 🤝 Let's Connect!
 
-- 📫 Email: mr****@gmail.com *(optional to add)*  
+- 📫 Email: mradulg306@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
 - 🧠 [GitHub](https://github.com/MG26-spec)
 
 ---
 
 _“Consistency is more important than perfection. Keep coding!”_
+
+_“If you want to destroy the country, destroy its youth!”_
+
+
 
