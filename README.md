@@ -43,9 +43,10 @@
 
 ---
 
+__“If you want to destroy the country, destroy its youth!”__
 _“Consistency is more important than perfection. Keep coding!”_
 
-_“If you want to destroy the country, destroy its youth!”_
+
 
 
 
