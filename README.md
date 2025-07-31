@@ -10,7 +10,7 @@
 
 🎓 **Student @ Chandigarh University**  
 💻 **B.Tech CSE | Batch 2024-2028**  
-🌱 **Currently Learning:** FastAPI, Machine Learning, Web Security  
+🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
 🚀 **Goal:** Become a cybersecurity and backend expert  
 
 ---
