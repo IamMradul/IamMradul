@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mradul Gupta (MG26-spec)
+# 👋 Hi there, I'm Mradul Gupta (IamMradul)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MG26-spec&style=flat-square)
 ![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
@@ -29,9 +29,9 @@
 
 ## 📈 GitHub Stats
 
-![Mradul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MG26-spec&show_icons=true&theme=tokyonight)
+![Mradul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamMradul&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MG26-spec&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMradul&layout=compact&theme=tokyonight)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 📫 Email: mradulg306@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
-- 🧠 [GitHub](https://github.com/MG26-spec)
+- 🧠 [GitHub](https://github.com/IamMradul)
 
 ---
 
