@@ -38,8 +38,9 @@
 ## 🤝 Let's Connect!
 
 - 📫 Email: mradulg306@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
 - 🧠 [GitHub](https://github.com/IamMradul)
+- 💼 [Portfolio](https://mradul-nu.vercel.app/)
 
 ---
 
