@@ -37,11 +37,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IamMradul&theme=dark&radius=10" alt="IamMradul's Activity Graph" />
 </p>
 
-## 📈 GitHub Stats
 
-![Mradul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamMradul&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMradul&layout=compact&theme=tokyonight)
 
 ---
 
@@ -57,8 +53,11 @@
 __“If you want to destroy the country, destroy its youth !”__
 
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
 
 
