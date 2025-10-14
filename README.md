@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">  
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF700&width=435&lines=Hi+there%2C+I'm+Mradul+Gupta+)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MG26-spec&style=flat-square)
