@@ -47,7 +47,7 @@
 
 ---
 
-__“If you want to destroy the country, destroy its youth !”__
+__“If you want to destroy a country, destroy its youth !”__
 
 
 <picture>
