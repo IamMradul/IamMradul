@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF700&width=435&lines=Hi+there%2C+I'm+Mradul+Gupta+)](https://git.io/typing-svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MG26-spec&style=flat-square)
 ![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
 ![Languages](https://img.shields.io/badge/Code-C++-green?style=flat-square&logo=c%2B%2B)
