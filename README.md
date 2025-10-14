@@ -32,10 +32,7 @@
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IamMradul&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mradul Gupta's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IamMradul&theme=dark&radius=10" alt="IamMradul's Activity Graph" />
-</p>
+
 
 
 
