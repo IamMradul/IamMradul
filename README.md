@@ -22,7 +22,15 @@
 - 📊 **Data Analysis:**  Python (pandas, matplotlib)  
 - 🤖 **AI/ML Enthusiast:** Interested in deep learning and automation  
 - 📷 **Hobbies:** Photography, Sketching, Exploring tech trends  
+---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,nodejs,fastapi,react,python,c,cpp,html,css,js,linux,kali&theme=dark" />
+</p>
+
+---
 ---
 ## 📊 GitHub Stats & Trophies
 <p align="center">
