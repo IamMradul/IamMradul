@@ -5,8 +5,12 @@
 ![Languages](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=security)
 
-<img width="1536" height="1024" alt="c04f5afc-2a7e-47a4-b53c-fd2d62d922f1" src="https://github.com/user-attachments/assets/890bf8aa-0930-40a3-9513-9d098a9aaa33" />
-
+<img
+  src="https://github.com/user-attachments/assets/890bf8aa-0930-40a3-9513-9d098a9aaa33"
+  width="350"
+  align="right"
+  alt="Mg"
+/>
 ---
 
 🎓 **Student @ Chandigarh University**  
