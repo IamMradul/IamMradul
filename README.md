@@ -17,18 +17,18 @@
 
 ---
 
+
+
+🎓 **Student @ Chandigarh University**  
+💻 **B.Tech CSE | Batch 2024-2028**  
+🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
+🚀 **Goal:** Become a cybersecurity and backend expert  
 <img
   src="https://github.com/user-attachments/assets/890bf8aa-0930-40a3-9513-9d098a9aaa33"
   width="380"
   align="right"
   alt="Mg"
 />
-
-🎓 **Student @ Chandigarh University**  
-💻 **B.Tech CSE | Batch 2024-2028**  
-🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
-🚀 **Goal:** Become a cybersecurity and backend expert  
-
 ---
 
 ## 🧠 Skills & Interests
@@ -65,12 +65,10 @@
 
 ## 🤝 Let's Connect!
 
-<p align="center">
-  📫 <b>Email:</b> mradulg306@gmail.com <br/>
-  🔗 <a href="https://www.linkedin.com/in/mradul-gupta-033438332/">LinkedIn</a> |
-  🧠 <a href="https://github.com/IamMradul">GitHub</a> |
-  💼 <a href="https://mradul-nu.vercel.app/">Portfolio</a>
-</p>
+- 📫 Email: mradulg306@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
+- 🧠 [GitHub](https://github.com/IamMradul)
+- 💼 [Portfolio](https://mradul-nu.vercel.app/)
 
 ---
 
@@ -81,90 +79,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="70px" width="70px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF700&width=435&lines=Hi+there%2C+I'm+Mradul+Gupta+)](https://git.io/typing-svg)
-
-![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
-![Languages](https://img.shields.io/badge/Code-C++-green?style=flat-square&logo=c%2B%2B)
-![Languages](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=security)
-
-
----
-
-🎓 **Student @ Chandigarh University**  
-💻 **B.Tech CSE | Batch 2024-2028**  
-🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
-🚀 **Goal:** Become a cybersecurity and backend expert  
-
----
-
-## 🧠 Skills & Interests
-
-- 💻 **Languages:** Python, C++, Java, C    
-- 🔐 **Cybersecurity:** Ethical hacking fundamentals, phishing awareness, secure coding  
-- 🧠 **Machine Learning:** scikit-learn, pandas, NumPy  
-- 📊 **Data Analysis:**  Python (pandas, matplotlib)  
-- 🤖 **AI/ML Enthusiast:** Interested in deep learning and automation  
-- 📷 **Hobbies:** Photography, Sketching, Exploring tech trends  
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,nodejs,fastapi,react,python,c,cpp,html,css,js,linux,kali&theme=dark" />
-</p>
-
----
----
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamMradul&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="IamMradul's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=IamMradul&theme=dark&hide_border=true&cache_seconds=86400" alt="IamMradul's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamMradul&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mradul Gupta's GitHub Trophies" />
-
-
-
-
----
-
-## 🤝 Let's Connect!
-
-- 📫 Email: mradulg306@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mradul-gupta-033438332/)  
-- 🧠 [GitHub](https://github.com/IamMradul)
-- 💼 [Portfolio](https://mradul-nu.vercel.app/)
-
----
-
-__“If you want to destroy a country, destroy its youth !”__
-
- 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-
