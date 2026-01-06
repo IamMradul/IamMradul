@@ -17,18 +17,18 @@
 
 ---
 
-
-
-🎓 **Student @ Chandigarh University**  
-💻 **B.Tech CSE | Batch 2024-2028**  
-🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
-🚀 **Goal:** Become a cybersecurity and backend expert  
 <img
   src="https://github.com/user-attachments/assets/890bf8aa-0930-40a3-9513-9d098a9aaa33"
   width="380"
   align="right"
   alt="Mg"
 />
+
+🎓 **Student @ Chandigarh University**  
+💻 **B.Tech CSE | Batch 2024-2028**  
+🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
+🚀 **Goal:** Become a cybersecurity and backend expert  
+
 ---
 
 ## 🧠 Skills & Interests
