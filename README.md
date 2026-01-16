@@ -26,18 +26,16 @@
 
 ## 👨‍💻 About Me
 
-- B.Tech Computer Science Engineering student at Chandigarh University  
-- Experience in backend development, cybersecurity fundamentals, and applied machine learning  
-- Strong foundation in data structures, algorithms, and problem-solving  
-- Focused on building secure, scalable, and maintainable software systems  
-- Hands-on experience with production-oriented projects and real-world use cases  
-- Emphasis on clean code, performance optimization, and reliability  
-- Security-conscious approach to software design and development
+I’m a B.Tech Computer Science Engineering student at Chandigarh University, working across backend development, cybersecurity fundamentals, and applied machine learning.
 
+I focus on building secure, scalable, and well-structured software systems, with attention to clean code, performance, and reliability.
 
-I believe **security is not a feature — it’s a mindset**.  
+I have a strong foundation in data structures, algorithms, and problem-solving, and enjoy applying these concepts to real-world, production-oriented projects.
 
----
+I follow security-conscious engineering practices and prefer designing systems that are robust, maintainable, and aligned with industry standards.
+
+> **Security is not a feature — it’s a mindset.**
+
 
 
 ## 🧠 Skills & Interests
