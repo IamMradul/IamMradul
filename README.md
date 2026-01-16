@@ -40,12 +40,12 @@
 
 ## 🧠 Skills
 
-**Programming:** Python, C++, Java, C  
-**Backend:** FastAPI, REST APIs, Linux  
-**Security:** Web security basics, secure coding  
-**ML:** scikit-learn, pandas, NumPy  
-**Tools:** Git, GitHub, VS Code
-**📷 Hobbies:**Photography, Sketching, Exploring tech trends  
+- **💻 Programming:** Python, C++, Java, C  
+- **👨🏻‍💻 Backend:** FastAPI, REST APIs, Linux  
+- **🔐 Security:** Web security basics, secure coding  
+- **📊 ML:** scikit-learn, pandas, NumPy  
+- **⚙️ Tools:** Git, GitHub, VS Code
+- **📷 Hobbies:** Photography, Sketching, Exploring tech trends  
 
 ---
 
