@@ -24,12 +24,21 @@
   alt="Mg"
 />
 
-🎓 **Student @ Chandigarh University**  
-💻 **B.Tech CSE | Batch 2024-2028**  
-🌱 **Currently Learning:** DSA, Machine Learning, Web Security  
-🚀 **Goal:** Become a cybersecurity and backend expert  
+## 👨‍💻 About Me
+
+
+I am a B.Tech Computer Science Engineering student at Chandigarh University with experience in backend development, cybersecurity fundamentals, and applied machine learning.
+
+My work focuses on building secure, scalable, and well-structured software systems, with an emphasis on clean code, performance, and reliability.
+
+I have a strong foundation in data structures, algorithms, and problem-solving, and I enjoy applying these concepts to real-world, production-oriented projects.
+
+I follow security-conscious engineering practices and prefer designing systems that are robust, maintainable, and aligned with industry standards.
+
+I believe **security is not a feature — it’s a mindset**.  
 
 ---
+
 
 ## 🧠 Skills & Interests
 
@@ -72,7 +81,9 @@
 
 ---
 
-<p align="center"><i>“If you want to destroy a country, destroy its youth !”</i></p>
+<p align="center"><i>
+Building systems that are secure by design, not patched by fear.
+</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
