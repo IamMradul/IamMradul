@@ -41,31 +41,22 @@
 ## 🧠 Skills
 
 ### 💻 Programming
-- Python, C++, Java, C  
-- Strong understanding of data structures & algorithms  
+- Python, C++, Java, C, Strong understanding of data structures & algorithms  
 
 ### ⚙️ Backend & Systems
-- REST API development (FastAPI)  
-- Backend logic, authentication & validation  
-- Linux fundamentals  
+- REST API development (FastAPI), Backend logic, authentication & validation, Linux fundamentals  
 
 ### 🔐 Cybersecurity
-- Web security fundamentals (XSS, SQL Injection, CSRF)  
-- Secure coding practices  
-- Familiar with Kali Linux and basic penetration testing tools  
+- Web security fundamentals (XSS, SQL Injection, CSRF), Secure coding practices, Familiar with Kali Linux and basic penetration testing tools  
 
 ### 🤖 Machine Learning
-- Applied machine learning with scikit-learn  
-- Data handling and analysis using pandas & NumPy  
+- Applied machine learning with scikit-learn, Data handling and analysis using pandas & NumPy  
 
 ### 🛠 Tools & Technologies
-- Git & GitHub  
-- VS Code, Linux environment
+- Git & GitHub, VS Code, Linux environment
 
 ### 📷 Hobbies
-- Photography
-- Sketching
--  Exploring tech trends  
+- Photography, Sketching, Exploring tech trends  
 
 ---
 
