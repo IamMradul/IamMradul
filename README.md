@@ -26,26 +26,46 @@
 
 ## 👨‍💻 About Me
 
-I’m a B.Tech Computer Science Engineering student at Chandigarh University, working across backend development, cybersecurity fundamentals, and applied machine learning.
+- I’m a B.Tech Computer Science Engineering student at Chandigarh University, working across backend development, cybersecurity fundamentals, and applied machine learning.
 
-I focus on building secure, scalable, and well-structured software systems, with attention to clean code, performance, and reliability.
+- I focus on building secure, scalable, and well-structured software systems, with attention to clean code, performance, and reliability.
 
-I have a strong foundation in data structures, algorithms, and problem-solving, and enjoy applying these concepts to real-world, production-oriented projects.
+- I have a strong foundation in data structures, algorithms, and problem-solving, and enjoy applying these concepts to real-world, production-oriented projects.
 
-I follow security-conscious engineering practices and prefer designing systems that are robust, maintainable, and aligned with industry standards.
+- I follow security-conscious engineering practices and prefer designing systems that are robust, maintainable, and aligned with industry standards.
 
 > **Security is not a feature — it’s a mindset.**
 
 
 
-## 🧠 Skills & Interests
+## 🧠 Skills
 
-- 💻 **Languages:** Python, C++, Java, C  
-- 🔐 **Cybersecurity:** Ethical hacking fundamentals, phishing awareness, secure coding  
-- 🧠 **Machine Learning:** scikit-learn, pandas, NumPy  
-- 📊 **Data Analysis:** Python (pandas, matplotlib)  
-- 🤖 **AI/ML Enthusiast:** Interested in deep learning and automation  
-- 📷 **Hobbies:** Photography, Sketching, Exploring tech trends  
+### 💻 Programming
+- Python, C++, Java, C  
+- Strong understanding of data structures & algorithms  
+
+### ⚙️ Backend & Systems
+- REST API development (FastAPI)  
+- Backend logic, authentication & validation  
+- Linux fundamentals  
+
+### 🔐 Cybersecurity
+- Web security fundamentals (XSS, SQL Injection, CSRF)  
+- Secure coding practices  
+- Familiar with Kali Linux and basic penetration testing tools  
+
+### 🤖 Machine Learning
+- Applied machine learning with scikit-learn  
+- Data handling and analysis using pandas & NumPy  
+
+### 🛠 Tools & Technologies
+- Git & GitHub  
+- VS Code, Linux environment
+
+### 📷 Hobbies
+- Photography
+- Sketching
+-  Exploring tech trends  
 
 ---
 
