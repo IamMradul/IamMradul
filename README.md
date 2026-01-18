@@ -83,6 +83,7 @@
 <p align="center"><i>
 Building systems that are secure by design, not patched by fear.
 </i></p>
+<img src="your-gif-file.gif" width="300" alt="Coding or animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
