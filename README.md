@@ -93,5 +93,5 @@ Building systems that are secure by design, not patched by fear.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" width="320" />
+  <img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="250" alt="Coding or animation" width="320" />
 </p>
