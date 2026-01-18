@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=security" />
 </p>
 
+
 ---
 
 <img
@@ -83,7 +84,7 @@
 <p align="center"><i>
 Building systems that are secure by design, not patched by fear.
 </i></p>
-<img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w" width="300" alt="Coding or animation" />
+<img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
