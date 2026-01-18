@@ -18,15 +18,15 @@
 
 ---
 
+
+
+## 👨‍💻 About Me
 <img
   src="https://github.com/user-attachments/assets/1d231baf-bfd5-4aac-8ae6-ef1bbf40fbb7"
   width="380"
   align="right"
   alt="Mg"
 />
-
-## 👨‍💻 About Me
-
 - I’m a B.Tech Computer Science Engineering student at Chandigarh University, working across backend development, cybersecurity fundamentals, and applied machine learning.
 
 - I focus on building secure, scalable, and well-structured software systems, with attention to clean code, performance, and reliability.
@@ -84,10 +84,13 @@
 <p align="center"><i>
 Building systems that are secure by design, not patched by fear.
 </i></p>
-<img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<p align="centre">
+<img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" />
+</p>
