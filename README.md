@@ -91,6 +91,7 @@ Building systems that are secure by design, not patched by fear.
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="centre">
-<img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/952dad73-78ae-4a62-a599-72bfe4b89e99" width="300" alt="Coding or animation" width="320" />
 </p>
