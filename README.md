@@ -19,7 +19,7 @@
 ---
 
 <img
-  src="https://github.com/user-attachments/assets/890bf8aa-0930-40a3-9513-9d098a9aaa33"
+  src="https://github.com/user-attachments/assets/1d231baf-bfd5-4aac-8ae6-ef1bbf40fbb7"
   width="380"
   align="right"
   alt="Mg"
