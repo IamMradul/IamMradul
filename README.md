@@ -77,9 +77,9 @@
 Feel free to reach out for collaborations, internships, or discussions on tech and research.
 
 - 📧 Email: [mradulg306@gmail.com](mailto:mradulg306@gmail.com)
-- 🔗 LinkedIn: https://www.linkedin.com/in/mradul-gupta26
-- 💻 GitHub: https://github.com/IamMradul
-- 🌐 Portfolio: https://mradul-mg.vercel.app/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mradul-gupta26)
+- 🧠 [GitHub](https://github.com/IamMradul)
+- 💼 [Portfolio](https://mradul-mg.vercel.app/)
 
 
 ---
