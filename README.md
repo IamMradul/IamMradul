@@ -77,7 +77,7 @@
 - 📫 Email: mradulg306@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mradul-gupta26)  
 - 🧠 [GitHub](https://github.com/IamMradul)
-- 💼 [Portfolio](https://https://mradul-mg.vercel.app/)
+- 💼 [Portfolio](https://mradul-mg.vercel.app/)
 
 ---
 
